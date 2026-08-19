@@ -35,7 +35,5 @@ int main()//a função main inicia a execução do programa
 		break;
 	}
 
-	system("pause");
-
 	return 0;
 }
